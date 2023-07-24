@@ -1,0 +1,14 @@
+.projects {
+    height: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  
+  .project-image {
+    width: 70%;
+    height: 90%;
+
+  }
+  

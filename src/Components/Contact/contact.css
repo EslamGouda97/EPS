@@ -1,0 +1,30 @@
+.contact-page {
+    margin-top: 150px;
+   
+  }
+  
+  .coll > h2 {
+    font-size: 3rem;
+    margin: auto;
+  }
+  
+  .coll > h3 {
+    font-size: 24px;
+    margin-top: 40px;
+  }
+  
+  .coll > p {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  form .form-control {
+    border-radius: 0;
+ }
+ 
+ form .form-control:focus {
+    box-shadow: none;
+    border-color: #E93B81;
+ }
+ .image img{
+    height: 510px;
+ }
